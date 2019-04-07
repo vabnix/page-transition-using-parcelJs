@@ -14,12 +14,16 @@ Install with YARN.
 
 ```bash
 yarn add @dogstudio/highway
+yarn add gsap
+yarn add parcel-bundler
 ```
 
-Install with YARN.
+Install with NPM.
 
 ```bash
 npm install --save @dogstudio/highway
+npm install --save gsap
+npm install --save parcel-bundler
 ```
 
 ## Usage
