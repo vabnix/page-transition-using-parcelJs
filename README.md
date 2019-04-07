@@ -1,5 +1,7 @@
 # Page Transition
 
+![alt text](https://github.com/vabnix/page-transition-using-parceljs/blob/master/page-transition.gif)
+
 ### Parcel
 Parcel has out of the box support for JS, CSS, HTML, file assets, and more - no plugins needed.
 
